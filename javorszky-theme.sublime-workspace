@@ -1,0 +1,822 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"don",
+				"dontinclude"
+			],
+			[
+				"di",
+				"display_current_user"
+			],
+			[
+				"prop",
+				"propid"
+			],
+			[
+				"text_",
+				"text_color_gray"
+			],
+			[
+				"text_colo",
+				"text_color_gray"
+			],
+			[
+				"text_c",
+				"text_color_gray"
+			],
+			[
+				"childre",
+				"children_args"
+			],
+			[
+				"cildre",
+				"children_args"
+			],
+			[
+				"stores",
+				"storesid"
+			],
+			[
+				"get_pos",
+				"get_post_ancestors"
+			],
+			[
+				"container",
+				"container_height  (variable)"
+			],
+			[
+				"nw",
+				"new_c_n"
+			],
+			[
+				"comment_num",
+				"comment_num_cont"
+			],
+			[
+				"mast",
+				"master_args"
+			],
+			[
+				"rest",
+				"restricted_args"
+			],
+			[
+				"create_",
+				"create_user_pages"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"background",
+				"background:linear"
+			],
+			[
+				"cure",
+				"current_user"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"submit_",
+				"submit_nondnd"
+			],
+			[
+				"comment",
+				"comment_req"
+			],
+			[
+				"_comme",
+				"_comment_parent"
+			],
+			[
+				"submit",
+				"submit_buttons"
+			],
+			[
+				"comme",
+				"comment_req"
+			],
+			[
+				"wp_get_attachment_",
+				"wp_get_attachment_metadata"
+			],
+			[
+				"file_e",
+				"file_ext"
+			],
+			[
+				"file_",
+				"file_basename"
+			],
+			[
+				"file_ex",
+				"file_extended_name"
+			],
+			[
+				"wp_get_atta",
+				"wp_get_attachment_link"
+			],
+			[
+				"attachme",
+				"attachments_args"
+			],
+			[
+				"tra",
+				"trailingslashit"
+			],
+			[
+				"attach",
+				"attach_data"
+			],
+			[
+				"wp_",
+				"wp_filetype"
+			],
+			[
+				"pa",
+				"page_id"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"redire",
+				"redirect_to"
+			],
+			[
+				"pca",
+				"pc_admin"
+			],
+			[
+				"get_post_meta",
+				"get_post_meta_by_id"
+			],
+			[
+				"exc",
+				"exclude_from_args"
+			],
+			[
+				"sep",
+				"septenary"
+			],
+			[
+				"q",
+				"quinary"
+			],
+			[
+				"es_",
+				"es_oed_ip"
+			],
+			[
+				"_SE",
+				"_SESSION"
+			],
+			[
+				"l",
+				"latest_serialized_a_value  (variable)"
+			],
+			[
+				"find",
+				"find_the_ip"
+			],
+			[
+				"la",
+				"latest_file  (variable)"
+			],
+			[
+				"check",
+				"check_cookie  (function)"
+			],
+			[
+				"ES",
+				"ES_CSV_Parser  (class)"
+			],
+			[
+				"lat",
+				"latest_serialized_a_file  (variable)"
+			],
+			[
+				"lis",
+				"list_dir"
+			],
+			[
+				"current_",
+				"current_page_ancestor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 879,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy CSS (Highest Compression)"
+			],
+			[
+				"css",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"csscom",
+				"Sort via CSScomb"
+			],
+			[
+				"cssc",
+				"Sort via CSScomb"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/functions/images/images.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/front-page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/functions/misc/misc.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/functions/ajax/ajax.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/sftp-config.json",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/index.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/functions/admin/admin.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/sass/variables.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/single-post.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/js/jquery/global.js",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/config.rb",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/content-pc-admin.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/content-suppliers.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/header.php",
+		"/Users/gabor/Desktop/sublime_sftp_debug.txt",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/content-standard-page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/content-pc-user.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/es-admin-styles.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/sass/es-admin-styles.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/premiercoffee/sass/orbit.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjbpo/front-page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjbpo/sass/grid.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjbpo/config.rb",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjbpo/sass/variables.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/sftp-config.json",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjbpo/header.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjbpo/footer.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/content-standard-page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/orbit.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/content-uploader.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/ajax/ajax.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/misc/load-scripts.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/misc/misc.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/admin/admin.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/content-pc-admin.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/content-pc-user.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/images/images.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects 2/PremierCoffee/sass/style.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects 2/PremierCoffee/style.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/meta-boxes/meta-boxes.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/js/jquery/global-ck.js",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/style.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/style.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/js/jquery/global.js",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/orbit.sass",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/front-page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/variables.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/search.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/navigation/navigation.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/index.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/header.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/single.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/es-admin-styles.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/es-admin-styles.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/config.rb",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/shortcode/shortcode.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/grid.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/admin/admin-styles.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/admin/css/es-admin-styles.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/admin/css/es-admin-styles.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/content-news.php",
+		"/Users/gabor/Desktop/test.txt",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/gabor/Desktop/Electric Studio Projects/DnD.js/dnd.js",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/wpd.sublime-snippet",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/loop-news.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/footer.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/post-types/taxonomies.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/functions/post-types/projects.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sass/screen.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/sftp-config.json",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/css/stylesheets/screen.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/css/sass/grid.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/css/sass/screen.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/css/config.rb",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/css/stylesheets/grid.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/PremierCoffee/css/grid.scss",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/.gitignore",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/search.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/misc/load-styles.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/admin/css/es-admin-styles.less",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/admin/css/es-admin-styles.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/widgets/widgets.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/post-types/public-pages.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/single-public-pages.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/loop-results.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/misc/misc.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/sidebar.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/header.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/single-public-pages-279.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/single-279.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/navigation/navigation.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/searchform.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/SagePay/SagePay.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/preit.sublime-snippet",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/style.css",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/taxonomy.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/front-page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/index.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/page.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/sftp-config.json",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/tag.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/archive.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/OED/functions/post-types/taxonomies.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/shopp1.2.3/shopp/core/flow/Order.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/WordPress/wpcms/wp-content/themes/electricstudio/shopp/product.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/WordPress/wpcms/wp-content/themes/electricstudio/sidebar-bookshop.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/WordPress/wpcms/wp-content/themes/electricstudio/shopp/category.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/shopp1.2.3/shopp/api/theme/checkout.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/WordPress/wpcms/wp-content/themes/electricstudio/sftp-config.json",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/sidebar-bookshop.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/shopp/product.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/shopp/category.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/WordPress/wpcms/wp-content/themes/Archive/electricstudio-2012-08-21/page-booklist.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/page-booklist.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/page-bookshop.php",
+		"/Volumes/Work/OIES Oxford Energy Studies/WordPress/wpcms/wp-content/themes/Archive/electricstudio-2012-08-21/page-bookshop.php",
+		"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/sftp-config.json",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/gabor/.bash_profile"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"ES_CONFIg",
+			"0",
+			"es_frontend_upload_nondnd_callback",
+			"Prop",
+			"    ",
+			"	",
+			"15px",
+			"header",
+			"dg_gradient_d",
+			"dg_gradient_b",
+			"lg",
+			"<div class=\"col-4\"></div>",
+			"$( '.dz' ).hide();",
+			"children_args",
+			"navigation",
+			"url(orbit",
+			"url('orbit",
+			", ",
+			"    ",
+			"$(this)",
+			"center",
+			"height",
+			"this.container_height",
+			"this.container.h",
+			"['speed']",
+			"h1",
+			"$blog_args",
+			"gray",
+			"red",
+			"';",
+			"echo '",
+			"template[]",
+			"weight",
+			"color",
+			"2px",
+			"images/",
+			"../images",
+			"5%",
+			"body",
+			"5px",
+			"top",
+			".row",
+			"header",
+			"hover",
+			"177",
+			"#content-area",
+			".row",
+			"-",
+			"\\t",
+			"    ",
+			"filename",
+			"es_frontend_2upload_callback",
+			"2es_frontend_upload",
+			"wp_ajax_2es_frontend_upload",
+			"$herp['filetype",
+			"commentdata",
+			"iB",
+			"wp_get_attachment_metadata",
+			"36",
+			"es_frontend_upload",
+			"  ",
+			"    ",
+			"  ",
+			"    ",
+			"  ",
+			"    ",
+			"  ",
+			"    ",
+			"$user",
+			"user",
+			"current_user",
+			"    ",
+			"true, true,",
+			"' = t",
+			"' =",
+			"first",
+			"sidebar-box",
+			".sidebar-box",
+			"echo",
+			"page-content",
+			"quinary",
+			"header",
+			"page-header	",
+			"( ",
+			"set_cookie",
+			"false",
+			"banned_ips",
+			"aip",
+			"1",
+			".tweets",
+			".twitter",
+			"relevanssi",
+			"query_posts",
+			"selected",
+			"&.current_page_ancestor",
+			"primary",
+			"#c82229",
+			"/**\n		 * Primary navigation (really dark blue bit)\n		 */",
+			"es_list_post_types",
+			"state",
+			"You must enter a valid street address",
+			"billing-state",
+			"billingstate",
+			"billingState",
+			"state",
+			"shopp_validate_checkout",
+			"shopp('category",
+			"url("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t",
+			"    ",
+			"url(images/orbit",
+			"url('images/orbit",
+			"	",
+			"_",
+			"	",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"	",
+			"",
+			"	",
+			"true,",
+			"' => t",
+			"' = true,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.rb",
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": false,
+								"box-sizing": "false",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": false,
+								"import": false,
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 1547.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"f",
+				"PremierCoffee/functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"raintree",
+				"/Users/gabor/Sites/raintree/raintree.sublime-project"
+			],
+			[
+				"new",
+				"/Users/gabor/Sites/new.caekcraft/wp-content/themes/new.caekcraft.sublime-project"
+			],
+			[
+				"",
+				"/Users/gabor/Sites/new.caekcraft/wp-content/themes/new.caekcraft.sublime-project"
+			],
+			[
+				"basic",
+				"/Users/gabor/Sites/wp/basicwordpressinstall.sublime-project"
+			],
+			[
+				"jjbom",
+				"/Users/gabor/Desktop/Electric Studio Projects/jj-bom/jjsbom.sublime-project"
+			],
+			[
+				"thera",
+				"/Users/gabor/Desktop/Electric Studio Projects/Therapy expo/phase 1/therapyexpophase1.sublime-project"
+			],
+			[
+				"therap",
+				"/Users/gabor/Desktop/Electric Studio Projects/Therapy expo/phase 1/therapyexpophase1.sublime-project"
+			],
+			[
+				"oed",
+				"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OED/oed.sublime-project"
+			],
+			[
+				"bma",
+				"/Users/gabor/Desktop/Electric Studio Projects/Gabor-Projects/BMA/bmavarsity.sublime-project"
+			],
+			[
+				"antri",
+				"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/Antrica/antrica-gabor.sublime-project"
+			],
+			[
+				"biee",
+				"/Users/gabor/Desktop/Electric Studio Projects/Gabor-Projects/BIEE/biee.sublime-project"
+			],
+			[
+				"antir",
+				"/Users/gabor/Desktop/Electric Studio Projects/Matthew-Projects/Antrica/antrica-gabor.sublime-project"
+			],
+			[
+				"greenes",
+				"/Users/gabor/Desktop/Electric Studio Projects/Gabor-Projects/Greenes Admin Remote/greenesadminremote.sublime-project"
+			],
+			[
+				"oies",
+				"/Users/gabor/Desktop/Electric Studio Projects/Shared-Projects/OIES-dev/OIES-dev.sublime-project"
+			],
+			[
+				"greene",
+				"/Users/gabor/Desktop/Electric Studio Projects/Gabor-Projects/Greenes Admin Remote/greenesadminremote.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
