@@ -35,14 +35,16 @@
       "initialSize" : 3169,
       "fileType" : 8192
     },
-    "\/functions.php" : {
+    "\/javascripts\/foundation\/app.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/functions.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/javascripts\/foundation\/app.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/javascripts\/foundation\/app-ck.js",
+      "fileType" : 64
     },
     "\/images\/foundation\/orbit\/bullets.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -55,15 +57,24 @@
       "initialSize" : 657,
       "fileType" : 4096
     },
-    "\/javascripts\/foundation\/app.js" : {
+    "\/functions.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/javascripts\/foundation\/app.js",
+      "inputAbbreviatedPath" : "\/functions.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/javascripts\/foundation\/jquery.foundation.accordion.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.accordion.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/javascripts\/foundation\/app-ck.js",
+      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.accordion-ck.js",
       "fileType" : 64
     },
     "\/images\/foundation\/orbit\/right-arrow.png" : {
@@ -77,15 +88,15 @@
       "initialSize" : 3242,
       "fileType" : 8192
     },
-    "\/javascripts\/foundation\/jquery.foundation.orbit.js" : {
+    "\/javascripts\/foundation\/jquery.event.move.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.orbit.js",
+      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.event.move.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.orbit-ck.js",
+      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.event.move-ck.js",
       "fileType" : 64
     },
     "\/javascripts\/foundation\/jquery.foundation.tooltips.js" : {
@@ -99,39 +110,16 @@
       "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.tooltips-ck.js",
       "fileType" : 64
     },
-    "\/javascripts\/foundation\/jquery.foundation.accordion.js" : {
+    "\/javascripts\/foundation\/jquery.foundation.orbit.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.accordion.js",
+      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.orbit.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.accordion-ck.js",
+      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.orbit-ck.js",
       "fileType" : 64
-    },
-    "\/javascripts\/foundation\/jquery.event.move.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.event.move.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.event.move-ck.js",
-      "fileType" : 64
-    },
-    "\/sass\/_settings.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_settings.sass",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/_settings.css",
-      "fileType" : 2,
-      "debugStyle" : 0
     },
     "\/images\/foundation\/orbit\/left-arrow.png" : {
       "ignoreWasSetByUser" : 0,
@@ -155,15 +143,6 @@
       "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.placeholder-ck.js",
       "fileType" : 64
     },
-    "\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/javascripts\/foundation\/app-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -175,6 +154,15 @@
       "outputAbbreviatedPath" : "\/javascripts\/foundation\/app-ck-ck.js",
       "fileType" : 64
     },
+    "\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/images\/foundation\/orbit\/left-arrow-small.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -185,27 +173,6 @@
       "outputAbbreviatedPath" : "\/images\/foundation\/orbit\/left-arrow-small.png",
       "initialSize" : 3163,
       "fileType" : 8192
-    },
-    "\/sass\/style.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/style.sass",
-      "outputStyle" : 2,
-      "shouldRunBless" : 1,
-      "outputAbbreviatedPath" : "\/style.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
-    "\/functions\/styles-scripts\/ss.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/functions\/styles-scripts\/ss.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/javascripts\/foundation\/jquery.js" : {
       "ignoreWasSetByUser" : 0,
@@ -229,6 +196,27 @@
       "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.mediaQueryToggle-ck.js",
       "fileType" : 64
     },
+    "\/functions\/styles-scripts\/ss.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/functions\/styles-scripts\/ss.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/sass\/_settings.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/_settings.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/_settings.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -237,6 +225,18 @@
       "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
+    },
+    "\/sass\/style.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/style.scss",
+      "outputStyle" : 2,
+      "shouldRunBless" : 1,
+      "outputAbbreviatedPath" : "\/style.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/javascripts\/foundation\/jquery.foundation.magellan.js" : {
       "ignoreWasSetByUser" : 0,
@@ -410,17 +410,6 @@
       "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.topbar-ck.js",
       "fileType" : 64
     },
-    "\/javascripts\/foundation\/jquery.foundation.clearing.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.clearing.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.clearing-ck.js",
-      "fileType" : 64
-    },
     "\/javascripts\/foundation\/modernizr.foundation.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -430,6 +419,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/javascripts\/foundation\/modernizr.foundation-ck.js",
+      "fileType" : 64
+    },
+    "\/javascripts\/foundation\/jquery.foundation.clearing.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.clearing.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/javascripts\/foundation\/jquery.foundation.clearing-ck.js",
       "fileType" : 64
     },
     "\/index.php" : {
@@ -650,60 +650,56 @@
     "coffeeAutoOutputPathReplace2" : "",
     "uglifyReservedNamesString" : "",
     "jsHintFlags" : {
-      "latedef" : 1,
-      "newcap" : 1,
-      "curly" : 1,
-      "trailing" : 1,
-      "nonew" : 1,
-      "withstmt" : 0,
-      "mootools" : 0,
-      "proto" : 0,
-      "boss" : 0,
-      "funcscope" : 0,
-      "regexdash" : 0,
-      "jquery" : 1,
-      "esnext" : 0,
-      "camelcase" : 0,
-      "es5" : 0,
-      "dojo" : 0,
-      "strict" : 0,
-      "devel" : 1,
       "onecase" : 0,
-      "wsh" : 0,
-      "nonstandard" : 0,
-      "asi" : 0,
-      "smarttabs" : 0,
-      "rhino" : 0,
-      "noempty" : 1,
-      "lastsemic" : 0,
-      "eqnull" : 0,
-      "eqeqeq" : 1,
-      "couch" : 0,
-      "evil" : 0,
-      "expr" : 0,
       "immed" : 0,
-      "globalstrict" : 0,
-      "undef" : 1,
-      "iterator" : 0,
-      "prototypejs" : 0,
-      "noarg" : 1,
-      "supernew" : 0,
-      "node" : 0,
-      "unused" : 1,
       "debug" : 0,
-      "bitwise" : 1,
-      "browser" : 1,
-      "worker" : 0,
-      "laxcomma" : 1,
+      "evil" : 0,
+      "strict" : 0,
       "multistr" : 0,
-      "shadow" : 0,
-      "sub" : 0,
-      "regexp" : 1,
-      "scripturl" : 0,
-      "forin" : 1,
-      "loopfunc" : 0,
+      "wsh" : 0,
+      "couch" : 0,
       "laxbreak" : 0,
-      "plusplus" : 0
+      "rhino" : 0,
+      "globalstrict" : 0,
+      "supernew" : 0,
+      "laxcomma" : 1,
+      "asi" : 0,
+      "es5" : 0,
+      "scripturl" : 0,
+      "dojo" : 0,
+      "bitwise" : 1,
+      "eqeqeq" : 1,
+      "shadow" : 0,
+      "expr" : 0,
+      "noarg" : 1,
+      "newcap" : 1,
+      "forin" : 1,
+      "regexdash" : 0,
+      "browser" : 1,
+      "node" : 0,
+      "eqnull" : 0,
+      "mootools" : 0,
+      "iterator" : 0,
+      "undef" : 1,
+      "latedef" : 1,
+      "nonstandard" : 0,
+      "trailing" : 1,
+      "jquery" : 1,
+      "loopfunc" : 0,
+      "boss" : 0,
+      "nonew" : 1,
+      "funcscope" : 0,
+      "regexp" : 1,
+      "lastsemic" : 0,
+      "smarttabs" : 0,
+      "devel" : 1,
+      "esnext" : 0,
+      "sub" : 0,
+      "curly" : 1,
+      "prototypejs" : 0,
+      "proto" : 0,
+      "plusplus" : 0,
+      "noempty" : 1
     },
     "coffeeOutputStyle" : 0,
     "slimAutoOutputPathRelativePath" : "",
@@ -751,7 +747,6 @@
       "no-seqs" : 1,
       "beautify" : 0,
       "lift-vars" : 0,
-      "consolidate-primitive-values" : 1,
       "no-squeeze" : 0
     },
     "sassAutoOutputPathReplace2" : "css",

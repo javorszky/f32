@@ -1,0 +1,1138 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"heade",
+				"header_entry"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"curr",
+				"currWkshtId"
+			],
+			[
+				"c",
+				"currKey  (variable)"
+			],
+			[
+				"path",
+				"paths_string"
+			],
+			[
+				"get_",
+				"get_spreadsheets"
+			],
+			[
+				"menu",
+				"menu_lis"
+			],
+			[
+				"ob_get_",
+				"ob_get_contents"
+			],
+			[
+				"debug_",
+				"debug_print_backtrace"
+			],
+			[
+				"es",
+				"es_rewrite_gallery_atts"
+			],
+			[
+				"post",
+				"postmeta"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"wp_get_att",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"border",
+				"moz-border-radius"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"webkit-box-shadow"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"get",
+				"get_children"
+			],
+			[
+				"chil",
+				"children_args"
+			],
+			[
+				"footer",
+				"footerz"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"get_the_",
+				"get_the_post_thumbnail"
+			],
+			[
+				"substr",
+				"substr_replace"
+			],
+			[
+				"light-",
+				"light-container"
+			],
+			[
+				"sliderbod",
+				"sliderbody_width"
+			],
+			[
+				"slider",
+				"sliderbody_width"
+			],
+			[
+				"slid",
+				"sliderwindow_width"
+			],
+			[
+				"event",
+				"events_orderby"
+			],
+			[
+				"the",
+				"the_post"
+			],
+			[
+				"even",
+				"events_args"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"add",
+				"add_new_error"
+			],
+			[
+				"error",
+				"error_string"
+			],
+			[
+				"Da",
+				"DateError  (class)"
+			],
+			[
+				"result_",
+				"result_email"
+			],
+			[
+				"SQ",
+				"SQL_email"
+			],
+			[
+				"pre",
+				"preit"
+			],
+			[
+				"run",
+				"run_SQL"
+			],
+			[
+				"real",
+				"real_escape_string  (function)"
+			],
+			[
+				"connec",
+				"connect_errno  (variable)"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"db",
+				"db_array"
+			],
+			[
+				"mysq",
+				"mysqli"
+			],
+			[
+				"U",
+				"User_Database  (class)"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"arr",
+				"array_today"
+			],
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"new",
+				"new_loc"
+			],
+			[
+				"day",
+				"day_of_month"
+			],
+			[
+				"days",
+				"days_of_month"
+			],
+			[
+				"this",
+				"this_month"
+			],
+			[
+				"name",
+				"name_of_day"
+			],
+			[
+				"google_",
+				"google_order_number"
+			],
+			[
+				"goog",
+				"google_orderid"
+			],
+			[
+				"write_",
+				"write_to_file"
+			],
+			[
+				"serial",
+				"serial_number"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"head",
+				"header_auth"
+			],
+			[
+				"write",
+				"write_to_file"
+			],
+			[
+				"get_templa",
+				"get_template_directory_uri"
+			],
+			[
+				"displa",
+				"display	display: inline"
+			],
+			[
+				"bac",
+				"background	background-color: name"
+			],
+			[
+				"dis",
+				"display	display: block"
+			],
+			[
+				"displ",
+				"display	display: inline"
+			],
+			[
+				"backgr",
+				"background	background-color: rgb"
+			],
+			[
+				"foo",
+				"footer_area"
+			],
+			[
+				"display",
+				"display	display: inline"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font	font-size: size"
+			],
+			[
+				"ba",
+				"background	background-color: hex"
+			],
+			[
+				"bas",
+				"baseline"
+			],
+			[
+				"vertica",
+				"vertical-align"
+			],
+			[
+				"gen_",
+				"gen_args"
+			],
+			[
+				"th",
+				"this	this"
+			],
+			[
+				"wp_reg",
+				"wp_register_script"
+			],
+			[
+				"get_blo",
+				"get_bloginfo"
+			],
+			[
+				"mar",
+				"margin	margin-left: length"
+			],
+			[
+				"ma",
+				"margin	margin: V H"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "codekit-config.json",
+			"settings":
+			{
+				"buffer_size": 26333,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"sftp sw",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prettif",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prettfi",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"phpc",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"z:AAAPackageDev: Delete Package"
+			],
+			[
+				"",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gabor/Sites/f32/scss/_settings.scss",
+		"/Users/gabor/Sites/f32/config.rb",
+		"/Users/gabor/Sites/f32/sass/_settings.scss",
+		"/Users/gabor/Sites/f32/sass/_settings.sass",
+		"/Users/gabor/Sites/f32/sass/style.sass",
+		"/Users/gabor/Sites/f32/sass/style.scss",
+		"/Users/gabor/Dropbox/tenancy - matt/25 Coopers Lane, Abingdon - FindersKeepers/readme.md",
+		"/Users/gabor/Sites/lg/sftp-config.json",
+		"/Users/gabor/Sites/gdata/sftp-config.json",
+		"/Users/gabor/Sites/gdata/installationchecker.php",
+		"/Users/gabor/Sites/gdata/ZendGdata-1.11.13/demos/Zend/Gdata/Spreadsheet-ClientLogin.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/preit.sublime-snippet",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/sidebar-bookshop.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/sftp-config.json",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/functions.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/page.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/page-oil-booklist.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/sidebar-page.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/sidebar-page.old.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/page-gas-booklist.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/page-booklist.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/page-bookshop.php",
+		"/Users/gabor/Sites/oies/sftp-config.json",
+		"/Users/gabor/Sites/oies/wp-config.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/OIES/style.css",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/loop-search.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/404.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/search.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/footer.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/header.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/page_normal_content.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/functions/misc/misc.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/js/something.js",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/images/triangle.png",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/style.css",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/front-page.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/page-twoup-children.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/images/gallery_button_overlay.png",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/functions/misc/load-styles.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/js/jquery/global.js",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/functions/images/images.php",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/custom.less",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/sftp-config.json",
+		"/Applications/MAMP/bin/php/php5.2.17/conf/php.ini",
+		"/Applications/MAMP/bin/php/php5.3.14/conf/php.ini",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-config.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/functions/misc/misc.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/functions/post-types/projects.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/functions/meta-boxes/meta-box.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/functions/post-types/taxonomies.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/functions.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/functions/meta-boxes/meta-box-usage.php",
+		"/Volumes/Work/22 GT Racing/wordpress/wpcms/wp-content/themes/ElectricStudio/page-home.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Frizzle/wp-content/themes/thefrizzle/page.php",
+		"/Volumes/Work/22 GT Racing/wordpress/wpcms/wp-content/themes/ElectricStudio/functions/custom-meta-boxes/meta-box-usage.php",
+		"/Volumes/Work/Greenes/Admin-System/designPackage/sftp-config.json",
+		"/Users/gabor/Desktop/ElectricStudio work/Boilerplate/functions/shortcode/shortcode.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Boilerplate/footer.php",
+		"/Users/gabor/Sites/ES_Test/wp-content/themes/Foundation/stylesheets/foundation.css",
+		"/Users/gabor/Desktop/ElectricStudio work/Boilerplate/functions/misc/load-scripts.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Boilerplate/functions/ajax/ajax.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Boilerplate/header.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/gabor/Desktop/ElectricStudio work/Gabor---Projects/Boilerplate/functions/misc/load-scripts.php",
+		"/Users/gabor/Desktop/ElectricStudio work/Gabor---Projects/Boilerplate/header.php",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/lib/database.php",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/index.php",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/test.php",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/lib/herp.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/insert_linebreak.sublime-snippet",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/js/app.js",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/js/useQuo.js",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/js/script.js",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/css/custom.css",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/css/custom.less",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/.htaccess",
+		"/Users/gabor/Desktop/Caekcraft Projects/datey/sftp-config.json",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/gabor/Desktop/RareForm Projects/revital/.htaccess",
+		"/Users/gabor/Desktop/RareForm Projects/revital/gc/response.txt",
+		"/Users/gabor/Desktop/RareForm Projects/revital/#revitalusermanager.php#",
+		"/Users/gabor/Desktop/RareForm Projects/revital/revitalusermanager.php",
+		"/Users/gabor/Desktop/RareForm Projects/revital/admin/common_funcs.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/gabor/Desktop/RareForm Projects/revital/sftp-config.json",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-admin/comment.php",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/style.css",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/page-21.php",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/page.php",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-config.php",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/header.php",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/js.js",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/ga.js",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/page-90.php",
+		"/Users/gabor/Desktop/RareForm Projects/lazygamer/wp-content/themes/lazygamer/page-17.php",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/SVN.sublime-settings",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/gabor/Desktop/RareForm Projects/footclinic/style.css",
+		"/Users/gabor/Desktop/RareForm Projects/footclinic/sftp-config.json",
+		"/Volumes/share/footclinic/home.php",
+		"/Volumes/share/footclinic/bottom.php",
+		"/Volumes/share/footclinic/top.php",
+		"/Volumes/share/footclinic/style.less",
+		"/Users/gabor/Library/Application Support/Espresso/Sugars/CSS.sugar/Contents/Info.plist",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/gabor/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/functions.php",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/beta.less",
+		"/Volumes/share/footclinic/style.css",
+		"/Users/gabor/Desktop/Unarchived Files/webfontkit-20120312-074648/stylesheet.css",
+		"/Users/gabor/Desktop/Unarchived Files/webfontkit-20120312-074648/rock-webfont_copy-webfont.woff",
+		"/Users/gabor/Desktop/Unarchived Files/webfontkit-20120312-074648/rock-webfont_copy-webfont.eot",
+		"/Users/gabor/Desktop/Unarchived Files/webfontkit-20120312-074648/rock-webfont_copy-webfont.ttf",
+		"/Users/gabor/Desktop/Unarchived Files/webfontkit-20120312-074648/rock-webfont_copy-webfont.svg",
+		"/Users/gabor/Desktop/Unarchived Files/webfontkit-20120312-074648/specimen_files/grid_12-825-55-15.css",
+		"/Users/gabor/Desktop/Unarchived Files/csswizardry-inuit.css-v3.1.a-7-g1aff236/csswizardry-inuit.css-1aff236/core/css/inuit.css",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/header-beta.php",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/js.js",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/page-27.php",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/js.coffee",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/footer.php",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/some.html",
+		"/Users/gabor/Sites/cheese/wp-content/themes/cheese/something.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/OxfordGates/functions",
+			"<open folders>",
+			"/Users/gabor/Desktop/RareForm Projects/revital",
+			"/Users/gabor/Desktop/RareForm Projects/lazygamer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n\n",
+			"\n;\n",
+			";\n",
+			"\n//",
+			"\n",
+			"\"\n",
+			"getFeed",
+			"SPREADSHEETS_FEED_URI",
+			"getClientLoginHttpClient",
+			"email",
+			"get_sidebar('page'",
+			"get_sidebar((.*)'page'",
+			"<div id=\"shopp",
+			"'medium'",
+			"content",
+			"input",
+			" {",
+			"fieldset",
+			"current-",
+			"submit",
+			".button",
+			"padding",
+			"border",
+			"light-container",
+			".button",
+			"5px",
+			"top",
+			"bottom",
+			"box-shadow:",
+			"333",
+			"box-shadow:",
+			"left",
+			"-left",
+			" 5px",
+			"border",
+			"#777",
+			"000000",
+			"inset 0 0 10px ",
+			"serif",
+			"5px",
+			"bord",
+			"border",
+			"href=\"\"",
+			"merriweather",
+			"add_theme_support",
+			"{",
+			"magic",
+			"h3",
+			"h2",
+			"wp_get_attachment_link",
+			"add_shortcode('gallery",
+			"type",
+			"apply_filter( 'posts_orderby",
+			"apply_filter('posts_orderby",
+			"apply_filters('posts_orderby",
+			"filter",
+			"events",
+			"Project",
+			"function submit_button",
+			"isset",
+			"!isset",
+			"public",
+			"preit",
+			"<div class='",
+			"<div class='head ",
+			"<div class='",
+			"@padding",
+			"height",
+			"@top+",
+			"@height;",
+			"@top",
+			"top",
+			"rewriterule",
+			"[0-9",
+			"echo",
+			"checkout",
+			"C/L",
+			"google_merchantkey",
+			"GOOGLE_CHECKOUT_URL",
+			"checkout_google",
+			"513705560631241",
+			"us",
+			"function tlog(",
+			"show_panel",
+			"/**",
+			"function comments_template",
+			"@group",
+			"single",
+			".left_",
+			".page",
+			"no",
+			"  ",
+			"h3",
+			"img",
+			"float: left",
+			"$gen_qry->",
+			"</h1>",
+			"<h1>",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" {",
+			"register",
+			"    ",
+			"",
+			"</h2>",
+			"<h2>",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "codekit-config.json",
+					"settings":
+					{
+						"buffer_size": 26333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2262.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"option",
+				"3.4/wordpress/wp-admin/options.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/Greenes_remote/greenes_remote.sublime-project"
+			],
+			[
+				"retake",
+				"/Users/gabor/Desktop/ElectricStudio Projects/Gabor-Projects/Retake calculator/retakecalculator.sublime-project"
+			],
+			[
+				"test",
+				"/Users/gabor/Sites/test/basicwordpresstest.sublime-project"
+			],
+			[
+				"shared",
+				"/Users/gabor/Desktop/ElectricStudio Projects/Shared-Projects/essharedprojects.sublime-project"
+			],
+			[
+				"susan",
+				"/Users/gabor/Desktop/RareForm Projects/susandunstall/susandunstall.sublime-project"
+			],
+			[
+				"a",
+				"/Users/gabor/Desktop/RareForm Projects/a2g/a2g.sublime-project"
+			],
+			[
+				"revital",
+				"/Users/gabor/Desktop/RareForm Projects/revital/revital.sublime-project"
+			],
+			[
+				"google",
+				"/Users/gabor/Desktop/Caekcraft Projects/gc/google checkout.sublime-project"
+			],
+			[
+				"google c",
+				"/Users/gabor/Desktop/Caekcraft Projects/gc/google checkout.sublime-project"
+			],
+			[
+				"hunterf",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/hunterflightacademy.sublime-project"
+			],
+			[
+				"footclin",
+				"/Users/gabor/Desktop/RareForm Projects/footclinic/footclinic.sublime-project"
+			],
+			[
+				"james",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/jamespenny.sublime-project"
+			],
+			[
+				"hangar8",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/hangar8.sublime-project"
+			],
+			[
+				"mobile",
+				"/Users/gabor/Desktop/Caekcraft Projects/projects/mobilefirst.sublime-project"
+			],
+			[
+				"caek",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/rareformtank.sublime-project"
+			],
+			[
+				"oxf",
+				"/Users/gabor/Desktop/RareForm Projects/oxfordorganic/oxfordorganic.sublime-project"
+			],
+			[
+				"hunter",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/hunterflightacademy.sublime-project"
+			],
+			[
+				"zound",
+				"/Users/gabor/Sites/zoundtown/zoundtown.sublime-project"
+			],
+			[
+				"reeds",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/reeds.sublime-project"
+			],
+			[
+				"wpsan",
+				"/Users/gabor/Desktop/RareForm Projects/sublime projects/wpsandbox.sublime-project"
+			],
+			[
+				"oxford",
+				"/Users/gabor/Desktop/RareForm Projects/oxfordorganic/oxfordorganic.sublime-project"
+			],
+			[
+				"cheese",
+				"/Users/gabor/Sites/cheese/cheese.sublime-project"
+			],
+			[
+				"chee",
+				"/Users/gabor/Sites/cheese/cheese.sublime-project"
+			],
+			[
+				"danrayner",
+				"/Users/gabor/Desktop/RareForm Projects/drp/danrayner.sublime-project"
+			],
+			[
+				"danra",
+				"/Users/gabor/Desktop/RareForm Projects/drp/danrayner.sublime-project"
+			],
+			[
+				"zo",
+				"/Users/gabor/Sites/zoundtown/zoundtown.sublime-project"
+			],
+			[
+				"danrayne",
+				"/Users/gabor/Desktop/RareForm Projects/drp/danrayner.sublime-project"
+			],
+			[
+				"danray",
+				"/Users/gabor/Desktop/RareForm Projects/drp/danrayner.sublime-project"
+			],
+			[
+				"lazy",
+				"/Users/gabor/Desktop/RareForm Projects/lazygamer/lazygamer.sublime-project"
+			],
+			[
+				"foot",
+				"/Users/gabor/Desktop/RareForm Projects/footclinic/footclinic.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
